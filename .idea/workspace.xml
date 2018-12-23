@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a97023-7118-45e1-b93e-03f868699165" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mtcnn_main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f6a97023-7118-45e1-b93e-03f868699165" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,24 +20,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
           <entry key="py" value="34" />
-          <entry key="txt" value="9" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="PLAIN_TEXT" value="16" />
           <entry key="Python" value="34" />
         </counts>
       </usages-collector>
@@ -48,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="353">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
                 <marker date="1545543949808" expanded="true" signature="303:304" ph="..." />
@@ -93,8 +90,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/facenet-master/src/train_tripletloss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
+            <state relative-caret-position="-9477">
               <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facenet-master/src/train_softmax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="298" column="42" lean-forward="true" selection-start-line="298" selection-start-column="42" selection-end-line="298" selection-end-column="42" />
+              <folding>
+                <element signature="e#1714#14043#0" />
+                <element signature="e#14088#14346#0" />
+                <element signature="e#14437#15360#0" />
+                <element signature="e#15908#18925#0" />
+                <element signature="e#19268#21008#0" />
+                <element signature="e#21372#24433#0" />
+                <element signature="e#24531#25568#0" />
+                <element signature="e#25604#32210#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facenet-master/src/classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-395">
+              <folding>
+                <element signature="e#1492#5539#0" />
+                <element signature="e#5658#6121#0" />
+                <element signature="e#6167#8044#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,6 +206,17 @@
               <item name="mtcnn-tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtcnn-tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mtcnn-tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtcnn-tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="facenet-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtcnn-tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtcnn-tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="facenet-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -199,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mtcnn_main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.classifier">
+    <configuration name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mtcnn-tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facenet-master/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Codes\githubcodes\mtcnn-tensorflow\mtcnn_main.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facenet-master/src/classifier.py" />
+      <option name="PARAMETERS" value="TRAIN /data/lfw/lfw_160 /models/model-20170216-091149.pb ~/models/lfw_classifier.pkl --batch_size 1000 --min_nrof_images_per_class 40 --nrof_train_images_per_class 35 --use_split_dataset" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -265,13 +305,13 @@
     </configuration>
     <list>
       <item itemvalue="Python.train_tripletloss" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.mtcnn_main" />
+      <item itemvalue="Python.classifier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classifier" />
         <item itemvalue="Python.mtcnn_main" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545491736849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1545547849082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545547849082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -324,7 +370,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init test" />
-    <option name="LAST_COMMIT_MESSAGE" value="init test" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/facenet-master/src/align/detect_face.py">
@@ -344,13 +391,6 @@
           <folding>
             <element signature="e#1210#1248#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facenet-master/src/train_tripletloss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -380,11 +420,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="353">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
             <marker date="1545543949808" expanded="true" signature="303:304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/src/train_tripletloss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9477">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/src/train_softmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="298" column="42" lean-forward="true" selection-start-line="298" selection-start-column="42" selection-end-line="298" selection-end-column="42" />
+          <folding>
+            <element signature="e#1714#14043#0" />
+            <element signature="e#14088#14346#0" />
+            <element signature="e#14437#15360#0" />
+            <element signature="e#15908#18925#0" />
+            <element signature="e#19268#21008#0" />
+            <element signature="e#21372#24433#0" />
+            <element signature="e#24531#25568#0" />
+            <element signature="e#25604#32210#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/src/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <folding>
+            <element signature="e#1492#5539#0" />
+            <element signature="e#5658#6121#0" />
+            <element signature="e#6167#8044#0" />
           </folding>
         </state>
       </provider>
