@@ -5,13 +5,16 @@ import cv2
 import matplotlib.pyplot as plt
 import sys
 import getopt
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+
 # pylab inline
 
 class Usage(Exception):
     def __init__(self, msg):
         self.msg = msg
 
-def main(argv=None):
+def mtcnn_main(argv=None):
     minsize = 20  # minimum size of face
     threshold = [0.6, 0.7, 0.7]  # three steps's threshold
     factor = 0.709  # scale factor
@@ -52,4 +55,4 @@ def main(argv=None):
     plt.show()
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(mtcnn_main())
