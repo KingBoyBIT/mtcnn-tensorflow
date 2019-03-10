@@ -18,7 +18,7 @@ def mtcnn_main(argv=None):
     minsize = 20  # minimum size of face
     threshold = [0.6, 0.7, 0.7]  # three steps's threshold
     factor = 0.709  # scale factor
-    gpu_memory_fraction = 1.0
+    gpu_memory_fraction = 0.5
 
     print('Creating networks and loading parameters')
 
@@ -28,7 +28,7 @@ def mtcnn_main(argv=None):
         with sess.as_default():
             pnet, rnet, onet = detect_face.create_mtcnn(sess, None)
 
-    image_path = 'multi_face3.jpg'
+    image_path = 'DSC_0301.jpg'
 
     img = misc.imread(image_path)
     bounding_boxes, _ = detect_face.detect_face(img, minsize, pnet, rnet, onet, threshold, factor)
