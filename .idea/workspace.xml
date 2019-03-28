@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6a97023-7118-45e1-b93e-03f868699165" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mtcnn_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mtcnn_main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,35 +17,35 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="18" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="36" />
           <entry key="dummy" value="6" />
-          <entry key="py" value="109" />
+          <entry key="py" value="118" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="145" />
+          <entry key="Python" value="154" />
         </counts>
       </usages-collector>
     </session>
@@ -54,99 +53,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facenet-master/src/facenet.py">
+        <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-              <folding>
-                <element signature="e#1210#1248#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facenet-master/src/download_and_extract.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facenet-master/src/train_tripletloss.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facenet-master/src/train_softmax.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="298" column="42" selection-start-line="298" selection-start-column="42" selection-end-line="298" selection-end-column="42" />
-              <folding>
-                <element signature="e#1714#14043#0" />
-                <element signature="e#14088#14346#0" />
-                <element signature="e#14437#15360#0" />
-                <element signature="e#15908#18925#0" />
-                <element signature="e#19268#21008#0" />
-                <element signature="e#21372#24433#0" />
-                <element signature="e#24531#25568#0" />
-                <element signature="e#25604#32210#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facenet-master/src/classifier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-              <folding>
-                <element signature="e#1209#1247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cvml/TensorFlow/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/align_dataset_mtcnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2529" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detect_face.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6336">
-              <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
+            <state relative-caret-position="308">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
+        <entry file="file://$PROJECT_DIR$/detect_face.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="310">
+              <caret line="409" column="92" lean-forward="true" selection-start-line="409" selection-start-column="92" selection-end-line="409" selection-end-column="92" />
+              <folding>
+                <element signature="e#1519#2405#0" />
+                <element signature="e#2435#8291#0" />
+                <element signature="e#8322#9038#0" />
+                <element signature="e#9073#9910#0" />
+                <element signature="e#9937#11058#0" />
+                <element signature="e#11100#12202#0" />
+                <element signature="e#17426#27355#0" />
+                <element signature="e#27440#27882#0" />
+                <element signature="e#27935#28729#0" />
+                <element signature="e#28815#29680#0" />
+                <element signature="e#29784#30823#0" />
+                <element signature="e#30881#31158#0" />
+                <element signature="e#31189#31348#0" />
+                <element signature="e#31349#31369#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -367,7 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -375,7 +310,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,6 +331,17 @@
     <MESSAGE value="init test" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mtcnn_main.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/facenet-master/src/align/detect_face.py">
@@ -505,21 +451,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/align_dataset_mtcnn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2529" />
+        <state relative-caret-position="308">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detect_face.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6336">
-          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="310">
+          <caret line="409" column="92" lean-forward="true" selection-start-line="409" selection-start-column="92" selection-end-line="409" selection-end-column="92" />
+          <folding>
+            <element signature="e#1519#2405#0" />
+            <element signature="e#2435#8291#0" />
+            <element signature="e#8322#9038#0" />
+            <element signature="e#9073#9910#0" />
+            <element signature="e#9937#11058#0" />
+            <element signature="e#11100#12202#0" />
+            <element signature="e#17426#27355#0" />
+            <element signature="e#27440#27882#0" />
+            <element signature="e#27935#28729#0" />
+            <element signature="e#28815#29680#0" />
+            <element signature="e#29784#30823#0" />
+            <element signature="e#30881#31158#0" />
+            <element signature="e#31189#31348#0" />
+            <element signature="e#31349#31369#0" />
+          </folding>
         </state>
       </provider>
     </entry>

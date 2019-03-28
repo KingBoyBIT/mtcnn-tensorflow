@@ -32,6 +32,7 @@ def mtcnn_main(argv=None):
 
     img = misc.imread(image_path)
     bounding_boxes, _ = detect_face.detect_face(img, minsize, pnet, rnet, onet, threshold, factor)
+
     nrof_faces = bounding_boxes.shape[0]  # 人脸数目
     print('找到人脸数目为：{}'.format(nrof_faces))
 
