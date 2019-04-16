@@ -12,14 +12,15 @@
     <session id="-603078570">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/facenet-master/src/facenet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="638">
               <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
               <folding>
                 <element signature="e#1210#1248#0" expanded="true" />
@@ -68,9 +69,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/facenet-master/test/batch_norm_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/facenet-master/run.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-66" />
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -118,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="572">
               <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
@@ -126,15 +125,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/facenet-master/src/compare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2182" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/detect_face.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="3322">
               <caret line="409" column="92" selection-start-line="409" selection-start-column="92" selection-end-line="409" selection-end-column="92" />
               <folding>
                 <element signature="e#1519#2405#0" />
@@ -209,7 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +228,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,6 +376,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -468,9 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,16 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
           <caret line="298" column="42" selection-start-line="298" selection-start-column="42" selection-end-line="298" selection-end-column="42" />
-          <folding>
-            <element signature="e#1714#14043#0" />
-            <element signature="e#14088#14346#0" />
-            <element signature="e#14437#15360#0" />
-            <element signature="e#15908#18925#0" />
-            <element signature="e#19268#21008#0" />
-            <element signature="e#21372#24433#0" />
-            <element signature="e#24531#25568#0" />
-            <element signature="e#25604#32210#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,51 +493,6 @@
     <entry file="file://$PROJECT_DIR$/align_dataset_mtcnn.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_face.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="409" column="92" selection-start-line="409" selection-start-column="92" selection-end-line="409" selection-end-column="92" />
-          <folding>
-            <element signature="e#1519#2405#0" />
-            <element signature="e#2435#8291#0" />
-            <element signature="e#8322#9038#0" />
-            <element signature="e#9073#9910#0" />
-            <element signature="e#9937#11058#0" />
-            <element signature="e#11100#12202#0" />
-            <element signature="e#17426#27355#0" />
-            <element signature="e#27440#27882#0" />
-            <element signature="e#27935#28729#0" />
-            <element signature="e#28815#29680#0" />
-            <element signature="e#29784#30823#0" />
-            <element signature="e#30881#31158#0" />
-            <element signature="e#31189#31348#0" />
-            <element signature="e#31349#31369#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facenet-master/src/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2182" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facenet-master/src/facenet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-          <folding>
-            <element signature="e#1210#1248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/facenet-master/tmp/detect_face_v1.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396" />
@@ -561,10 +501,18 @@
     <entry file="file://$PROJECT_DIR$/facenet-master/tmp/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/facenet-master/test/batch_norm_test.py">
+    <entry file="file://$PROJECT_DIR$/facenet-master/src/facenet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264" />
+        <state relative-caret-position="638">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <folding>
+            <element signature="e#1210#1248#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/test/batch_norm_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/facenet-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -585,8 +533,41 @@
     <entry file="file://$PROJECT_DIR$/facenet-master/run.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-66" />
+          <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtcnn_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facenet-master/src/compare.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3322">
+          <caret line="409" column="92" selection-start-line="409" selection-start-column="92" selection-end-line="409" selection-end-column="92" />
+          <folding>
+            <element signature="e#1519#2405#0" />
+            <element signature="e#2435#8291#0" />
+            <element signature="e#8322#9038#0" />
+            <element signature="e#9073#9910#0" />
+            <element signature="e#9937#11058#0" />
+            <element signature="e#11100#12202#0" />
+            <element signature="e#17426#27355#0" />
+            <element signature="e#27440#27882#0" />
+            <element signature="e#27935#28729#0" />
+            <element signature="e#28815#29680#0" />
+            <element signature="e#29784#30823#0" />
+            <element signature="e#30881#31158#0" />
+            <element signature="e#31189#31348#0" />
+            <element signature="e#31349#31369#0" />
+          </folding>
         </state>
       </provider>
     </entry>
